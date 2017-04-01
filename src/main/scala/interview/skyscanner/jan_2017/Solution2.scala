@@ -14,8 +14,6 @@ class Solution2 {
       dep(0) -> dep(1)
     }
 
-    depend.toMap.
-
   }
 
 
@@ -26,6 +24,5 @@ class Solution2 {
     OutputCommonManager(_count)
 
   }
-}
 
 }
